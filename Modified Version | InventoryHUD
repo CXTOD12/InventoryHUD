@@ -1,0 +1,11 @@
+Simple InventoryHUD Version, hope you enjoy
+
+Installation
+Change banner image (html → ui.html → line : 29-31)
+
+Check (html → css → ui.css) for colours and more!
+
+Features
+/closeinv command to close inventory (For glitches etc.)
+Close Inventory Function
+Modified Colors for Usable Items
